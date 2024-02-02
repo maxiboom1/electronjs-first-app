@@ -2,7 +2,7 @@
   "name": "electronjs-first-app",
   "version": "1.0.0",
   "description": "My first experience with electron js",
-  "main": "main.js",
+  "main": "src/main/main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"

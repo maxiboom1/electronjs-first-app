@@ -1,7 +1,7 @@
-# Electron-js first app
- My first experience with electron js
+# Electron-js First App
+My first experience with Electron.js.
 
-## Electron env Installation
+## Electron Environment Installation
 
 ### In your app folder:
 ```
@@ -9,7 +9,7 @@ npm init
 npm install electron --save-dev
 ```
 
-### Package.json:
+### package.json:
 ```
 "main": "main.js",
 "scripts": {
@@ -19,7 +19,8 @@ npm install electron --save-dev
 
 ## Electron-builder Installation
 
-Electron-builder will build standard "next-next-next" installer, with nodejs inside, so the end-user get all-in-box solution.
+Electron-builder will build a standard "next-next-next" installer. 
+It packages Node.js within the installer, providing an all-in-one solution for the end-user.
 
 `npm install electron-builder --save-dev`
 
